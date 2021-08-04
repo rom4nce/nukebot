@@ -1,7 +1,7 @@
 {
   "name": "nuke-bot",
   "version": "1.0.0",
-  "description": "A nuke-bot made by kazion1337",
+  "description": "A nuke-bot made by romance",
   "main": "nuke.js",
   "scripts": {
     "start": "node nuke.js"
@@ -14,7 +14,7 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://github.com/kazion1337"
+    "url": "https://github.com/rom4nce"
   },
   "license": "MIT",
   "keywords": [
