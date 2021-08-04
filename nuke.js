@@ -101,7 +101,7 @@ const Constants = require(_0x4f3b43(0x1e3));
   bot["on"](_0x4f3b43(0x20d), async () => {
     const _0x2cffd1 = _0x4f3b43;
     console[_0x2cffd1(0x207)]("Nuke\x20Bot\x20Is\x20Now\x20Online"),
-      bot[_0x2cffd1(0x1ff)]["setActivity"]("@kazion#1337"),
+      bot[_0x2cffd1(0x1ff)]["setActivity"]("@romance#1209"),
       bot[_0x2cffd1(0x1e6)]({ permissions: [_0x2cffd1(0x20b)] })[
         _0x2cffd1(0x1fa)
       ](_0x11ae13 => console[_0x2cffd1(0x207)]("" + _0x11ae13));
